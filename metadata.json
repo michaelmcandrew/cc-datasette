@@ -1,0 +1,10 @@
+
+
+{
+    "title": "Charity Commission Datasette",
+    "description": "Public data from the charity commision (published February 2019) as a datasette. More info at http://github.com/michaelmcandrew/cc-datasette.",
+    "license": "OGL",
+    "license_url": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+    "source": "The Charity Commission",
+    "source_url": "http://data.charitycommission.gov.uk/"
+}

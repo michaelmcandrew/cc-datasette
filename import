@@ -1,0 +1,4 @@
+#!/usr/bin/env python3
+import cc
+cc.create_tables()
+cc.insert_rows()
